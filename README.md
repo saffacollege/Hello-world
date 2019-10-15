@@ -1,6 +1,5 @@
 # Hello-world
-another repository
 
 Hi guys!
 
-i like food hahah 
+Hello here, i like food haha
